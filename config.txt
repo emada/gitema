@@ -1,0 +1,5 @@
+user=git
+server=50.57.88.135
+port=30022
+GITEMA_PATH=/Users/ema/projects/gitema
+GITEMA_SERVER_PATH=gitema/server
