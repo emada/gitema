@@ -1,0 +1,5 @@
+Usage 
+
+1 - Clone repository on both admin's local machine and server
+2 - Run on admin's machine:
+    ./add_user.sh ~/.ssh/ema.pub
